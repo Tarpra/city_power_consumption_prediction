@@ -1,6 +1,3 @@
-# city_power_consumption_prediction
-Machine Learning project predicting city-level power consumption with data analysis, forecasting, and visualization.
-
 ## City Power Consumption Prediction
 
 This project focuses on analyzing and predicting city-level power consumption using Machine Learning techniques. The objective is to identify consumption patterns, explore relationships with external factors, and build a predictive model that helps in efficient energy planning and demand forecasting.
