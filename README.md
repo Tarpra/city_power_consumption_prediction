@@ -10,7 +10,7 @@ Weather conditions
 
 Seasonal variations
 
-Industrial activities
+Industrial activitie
 
 Population behavior
 
